@@ -1,0 +1,116 @@
+[
+  {
+    "id": 7,
+    "name": "Pro",
+    "coordinates": {
+      "x": 10,
+      "y": -2000.0
+    },
+    "creationDate": "2025-04-06T14:30:00",
+    "area": 129,
+    "numberOfRooms": -123,
+    "furnish": "FINE",
+    "view": "STREET",
+    "transport": null,
+    "house": {
+      "name": null,
+      "year": 123,
+      "numberOfFlatsOnFloor": 1234
+    }
+  },
+  {
+    "id": 2,
+    "name": "Pro",
+    "coordinates": {
+      "x": 10,
+      "y": -2000.0
+    },
+    "creationDate": "2025-04-06T14:30:00",
+    "area": 129,
+    "numberOfRooms": -123,
+    "furnish": "FINE",
+    "view": "BAD",
+    "transport": null,
+    "house": {
+      "name": null,
+      "year": 123,
+      "numberOfFlatsOnFloor": 1234
+    }
+  },
+  {
+    "id": 3,
+    "name": "Pro",
+    "coordinates": {
+      "x": 10,
+      "y": -2000.0
+    },
+    "creationDate": "2025-04-06T14:30:00",
+    "area": 129,
+    "numberOfRooms": -123,
+    "furnish": "BAD",
+    "view": "GOOD",
+    "transport": null,
+    "house": {
+      "name": null,
+      "year": 123,
+      "numberOfFlatsOnFloor": 1234
+    }
+  },
+  {
+    "id": 4,
+    "name": "Pro",
+    "coordinates": {
+      "x": 10,
+      "y": -2000.0
+    },
+    "creationDate": "2025-04-06T14:30:00",
+    "area": 129,
+    "numberOfRooms": -123,
+    "furnish": "FINE",
+    "view": "STREET",
+    "transport": null,
+    "house": {
+      "name": null,
+      "year": 123,
+      "numberOfFlatsOnFloor": 1234
+    }
+  },
+  {
+    "id": 5,
+    "name": "new",
+    "coordinates": {
+      "x": 10,
+      "y": -200.0
+    },
+    "creationDate": "2025-04-09T10:06:39.978004",
+    "area": 1400,
+    "numberOfRooms": 717,
+    "furnish": "NONE",
+    "view": "STREET",
+    "transport": "FEW",
+    "house": {
+      "name": "b6",
+      "year": 2006,
+      "numberOfFlatsOnFloor": 7
+    }
+  },
+  {
+    "id": 6,
+    "name": "number1",
+    "coordinates": {
+      "x": 12,
+      "y": 12.0
+    },
+    "creationDate": "2025-04-09T15:56:12.645417",
+    "area": 123,
+    "numberOfRooms": 124,
+    "furnish": "NONE",
+    "view": "BAD",
+    "transport": "FEW",
+    "house": {
+      "name": "sdga",
+      "year": 12,
+      "numberOfFlatsOnFloor": 12
+    }
+  }
+]
